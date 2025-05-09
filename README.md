@@ -14,6 +14,7 @@
 3. Block comments that include: 밑의 입력창 안에 filter.txt의 내용을 붙여넣기해 주세요.
 
 예시:
+
 ![예시 이미지](https://i.imgur.com/e2iLYn3.png)
 
 4. 오른쪽 아래의 'Save' 버튼을 클릭하여 변경사항을 저장해 주세요.
