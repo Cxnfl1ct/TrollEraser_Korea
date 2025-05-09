@@ -1,5 +1,5 @@
 # TrollEraser_Korea
-정상적인 한국인을 위한 악플/분탕 차단 필터
+정상적인 한국인을 위한 악플/분탕/정치댓글 차단 필터
 > If you are from other countries asides South Korea, the filter probably won't work for you.
 
 > 如果您来自韩国以外的其他国家，该过滤器可能不适合您。
