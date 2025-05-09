@@ -21,11 +21,11 @@
 
 전:
 
-![a](https://i.imgur.com/pMsvb6Z.png)
+![a](https://i.imgur.com/pMsvb6Z.png =415x274.5)
 
 후:
 
-![b](https://i.imgur.com/um5Nl8o.png) [1분 30초 경과 후 이미지입니다]
+![b](https://i.imgur.com/um5Nl8o.png =415x274.5) [1분 30초 경과 후 이미지입니다]
 
 # 사용법
 1. 다음 링크에서 브라우저에 맞는 YTBlock 확장 프로그램을 설치하세요. [https://ytblock.netlify.app/](https://ytblock.netlify.app/)
