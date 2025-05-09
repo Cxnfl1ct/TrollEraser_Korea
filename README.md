@@ -13,5 +13,5 @@
 2. 확장 프로그램 자체 설정창을 연 후, 'Comments' 탭을 선택해주세요.
 3. Block comments that include: 밑의 입력창 안에 filter.txt의 내용을 붙여넣기해 주세요.
 예시:
-[Imgur](https://imgur.com/e2iLYn3)
+[예시 이미지](https://i.imgur.com/e2iLYn3.png)
 4. 오른쪽 아래의 'Save' 버튼을 클릭하여 변경사항을 저장해 주세요.
