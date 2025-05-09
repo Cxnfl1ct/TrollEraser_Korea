@@ -29,7 +29,7 @@
 
 <img src="https://i.imgur.com/um5Nl8o.png" width=638 height=422 />
 
-사용법
+# 사용법
 1. 다음 링크에서 브라우저에 맞는 YTBlock 확장 프로그램을 설치하세요. [https://ytblock.netlify.app/](https://ytblock.netlify.app/)
 2. 확장 프로그램 자체 설정창을 연 후, 'Comments' 탭을 선택해주세요.
 3. Block comments that include: 밑의 입력창 안에 filter.txt의 내용을 붙여넣기해 주세요.
