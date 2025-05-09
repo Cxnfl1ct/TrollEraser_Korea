@@ -7,6 +7,8 @@
 
 또한 용어/욕설 등을 사용하지 않고 비꼬는 댓글 등은 차단되지 않습니다.
 
+키워드 기반이기 때문에 정상적인 댓글도 차단될 수 있습니다.
+
 > If you are from other countries asides South Korea, the filter probably won't work for you.
 
 > 如果您来自韩国以外的其他国家，该过滤器可能不适合您。
