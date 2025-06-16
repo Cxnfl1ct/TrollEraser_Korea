@@ -19,6 +19,8 @@
 
 필터 설치 전/후 비교 [영상 링크](https://www.youtube.com/watch?v=XgrLq9xz0Xg)
 
+> TO-DO: 더 나은 예시 추가
+
 (유의: 확실한 비교를 위하여 최신순 정렬을 사용했습니다)
 
 전:
